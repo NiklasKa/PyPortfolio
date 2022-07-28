@@ -3,3 +3,8 @@ The projects inside my python portfolio are build during [**100 Days of Code: Th
 
 
 ## Projects
+### pyMorse
+[![Generic badge](https://img.shields.io/badge/-Scripting-blue.svg)](https://github.com/NiklasKa/PyPortfolio)
+
+A text-based Python program to convert Strings into Morse Code.
+
