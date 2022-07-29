@@ -1,0 +1,5 @@
+name: PyPortfolio
+channels:
+  - defaults
+dependencies:
+  - python=3.9
