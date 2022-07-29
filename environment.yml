@@ -1,4 +1,4 @@
-name: PyPortfolio
+name: pyPortfolio
 channels:
   - defaults
 dependencies:

@@ -3,13 +3,13 @@ The projects inside my python portfolio are build during [**100 Days of Code: Th
 
 ## Installation
 Create conda environment
-```bash
+```shell
 conda env create -f environment.yml
 ```
 
 Activate environment and install library
-```bash
-conda activate PyPortfolio
+```shell
+conda activate pyPortfolio
 pip install -e .
 ```
 
@@ -19,3 +19,7 @@ pip install -e .
 
 A text-based Python program to convert Strings into Morse Code.
 
+```python
+from pyMorse.utils import encode
+print(encode("SOS"))
+```
